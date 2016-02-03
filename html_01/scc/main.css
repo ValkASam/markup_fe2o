@@ -1,0 +1,41 @@
+
+#main-photo {
+    width: 160px;
+}
+
+figure {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 140%;
+}
+
+p {
+    margin: 5px 0 0 15px;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.page {
+    background: white;
+    width: 30%;
+    margin: auto;
+    padding: 20px 50px 65px 50px;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+
+
+
+div {
+    margin-top: 22px;
+}
+
+ul {
+    margin-left: 10px;
+}
