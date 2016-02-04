@@ -1,22 +1,12 @@
-
-#main-photo {
-    width: 28%;
-    height: auto;
-}
-
 figure {
     margin: auto;
     text-align: center;
     width: 100%;
 }
 
-h2 {
-    text-align: center;
-    font-size: 125%;
-}
-
-p {
-    margin: 0.38em 0em 0em 0.8em;
+#main-photo {
+    width: 28%;
+    height: auto;
 }
 
 body {
@@ -25,7 +15,7 @@ body {
     margin-right: auto;
     width: 500px;
     background-color: #ebebeb;
-    font-size: 1.05em;
+    font-size: 12.5pt;
     font-weight: bold;
 }
 
@@ -35,24 +25,43 @@ body {
     box-shadow: 0px 0px 5px 0px;
 }
 
+h2 {
+    text-align: center;
+    font-size: 125%;
+}
+
 div {
-    margin-top: 1.5em;
-}
-
-ul {
-    padding-left: 2.3em;
-    margin-top: 1.3em;
-    margin-left: 0vw;
-}
-
-hr {
-    border-width: 0.1em 0 0 0;
+    margin-top: 1.4em;
 }
 
 .signature {
     margin-top: 0em;
+    margin-bottom: 1em;
+}
+
+p {
+    margin: 0.38em 0em 0em 0.8em;
+}
+
+.mail {
+    margin: 0.38em 0em 0.8em 0.8em;
+}
+
+br {
+    font-size: 1.4em;
+}
+
+hr {
+    border-width: 0.12em 0 0 0;
+}
+
+ul {
+    padding-left: 2.3em;
+    margin-top: 2em;
+    margin-left: 0vw;
 }
 
 li {
     margin-top: 0.2em;
 }
+
